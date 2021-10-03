@@ -5,13 +5,14 @@
 Properties:
 - Name of depositor
 - Account number
+- Account status
 - Type of account
 - Balance amount in the account
 
 Member functions:
-- Name of depositor
-- Account number
-- Type of account
-- Balance amount in the account
+- To assign initial values.
+- To deposit an amount.
+- To withdraw an amount after checking the balance.
+- To display the name and balance.
 
 
