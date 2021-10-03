@@ -17,8 +17,8 @@ Member functions:
 
 # Output
 ```
-You have to pay 500 TK to open your account
-You have to store at least 500 TK to keep your account active
+You have to pay 500 SAR to open your account
+You have to store at least 500 SAR to keep your account active
 Would you want to open a account????
 If Yes press 1
 If No press 0 : 0
