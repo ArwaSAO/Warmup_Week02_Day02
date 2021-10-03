@@ -10,7 +10,6 @@
 <li>Type of account</li>
 <li>Balance amount in the account</li>
 </ol>
-<br>
 
 
 <br>
