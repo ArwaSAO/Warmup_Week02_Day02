@@ -1,11 +1,8 @@
 # Warmup_Week02_Day02 🔥
 ---
+## Define a class to represent a bank account. Include the following members:
 
 <br>
-Define a class to represent a bank account. Include the following members:
-<br><br>
-<strong>Here's the specifics of what you will see in the course:</strong>
-<br><br>
 <ol>
 <li>Caching data for when the network goes offline</li>
 <li>Reading cached data when the network is down</li>
@@ -28,7 +25,6 @@ Define a class to represent a bank account. Include the following members:
 </ol>
 <br>
 
-## Define a class to represent a bank account. Include the following members:
 <br><br>
 <strong></strong>
 <br><br>
