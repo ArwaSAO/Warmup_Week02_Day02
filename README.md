@@ -3,6 +3,9 @@
 ## Define a class to represent a bank account. Include the following members:
 
 <br>
+<br><br>
+<strong>Properties:</strong>
+<br><br>
 <ol>
 <li>Caching data for when the network goes offline</li>
 <li>Reading cached data when the network is down</li>
