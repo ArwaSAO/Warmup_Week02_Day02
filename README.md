@@ -16,11 +16,13 @@ Member functions:
 - To display the name and balance.
 
 # Output
-`You have to pay 500 TK to open your account
+```
+You have to pay 500 TK to open your account
 You have to store at least 500 TK to keep your account active
 Would you want to open a account????
 If Yes press 1
 If No press 0 : 0
-Thank you ,see again`
+Thank you ,see again
+```
 
 
