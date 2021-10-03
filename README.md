@@ -4,7 +4,6 @@
 
 <br>
 <strong>Properties:</strong>
-<br><br>
 <ol>
 <li>Name of depositor</li>
 <li>Account number</li>
@@ -16,7 +15,6 @@
 
 <br>
 <strong>Member functions:</strong>
-<br><br>
 <ol>
 <li>Name of depositor</li>
 <li>Account number</li>
